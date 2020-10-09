@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{086D3704-8ACE-4D38-8F77-77B8BBE71EC1}</ProjectGuid>
+    <ProjectGuid>{60A090EB-9885-479F-ACFC-5A972AE7CFEE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BLL</RootNamespace>
@@ -41,16 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ArticuloService.cs" />
+    <Compile Include="ClienteService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{1ea77a53-b953-4a9a-96ad-7447eacc7a26}</Project>
+      <Project>{7de161a3-d936-4051-b0a6-70932fd45a8f}</Project>
       <Name>DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\Entity\Entity.csproj">
-      <Project>{b7f9e85b-8a37-40d0-ade9-5eb3fa69f3fd}</Project>
+      <Project>{11207de6-9397-4049-9f3b-00afc2f04483}</Project>
       <Name>Entity</Name>
     </ProjectReference>
   </ItemGroup>

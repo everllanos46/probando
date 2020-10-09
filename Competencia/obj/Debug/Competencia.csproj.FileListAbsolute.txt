@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Competencia\Competencia\obj\Debug\Competencia.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\Competencia.exe.config
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\Competencia.exe
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\Competencia.pdb
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\BLL.dll
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\Entity.dll
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\DAL.dll
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\BLL.pdb
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\Entity.pdb
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\DAL.pdb
+C:\Users\LENOVO\source\repos\Competencia\Competencia\bin\Debug\DAL.dll.config
+C:\Users\LENOVO\source\repos\Competencia\Competencia\obj\Debug\Competencia.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Competencia\Competencia\obj\Debug\Competencia.exe
+C:\Users\LENOVO\source\repos\Competencia\Competencia\obj\Debug\Competencia.pdb

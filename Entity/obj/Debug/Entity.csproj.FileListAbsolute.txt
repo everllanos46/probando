@@ -1,5 +1,5 @@
-C:\Users\LENOVO\source\repos\ComercialAG\Entity\bin\Debug\Entity.dll
-C:\Users\LENOVO\source\repos\ComercialAG\Entity\bin\Debug\Entity.pdb
-C:\Users\LENOVO\source\repos\ComercialAG\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
-C:\Users\LENOVO\source\repos\ComercialAG\Entity\obj\Debug\Entity.dll
-C:\Users\LENOVO\source\repos\ComercialAG\Entity\obj\Debug\Entity.pdb
+C:\Users\LENOVO\source\repos\Competencia\Entity\bin\Debug\Entity.dll
+C:\Users\LENOVO\source\repos\Competencia\Entity\bin\Debug\Entity.pdb
+C:\Users\LENOVO\source\repos\Competencia\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Competencia\Entity\obj\Debug\Entity.dll
+C:\Users\LENOVO\source\repos\Competencia\Entity\obj\Debug\Entity.pdb
