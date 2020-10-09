@@ -1,9 +1,8 @@
-C:\Users\LENOVO\source\repos\Competencia\DAL\bin\Debug\DAL.dll.config
-C:\Users\LENOVO\source\repos\Competencia\DAL\bin\Debug\DAL.dll
-C:\Users\LENOVO\source\repos\Competencia\DAL\bin\Debug\DAL.pdb
-C:\Users\LENOVO\source\repos\Competencia\DAL\bin\Debug\Entity.dll
-C:\Users\LENOVO\source\repos\Competencia\DAL\bin\Debug\Entity.pdb
-C:\Users\LENOVO\source\repos\Competencia\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
-C:\Users\LENOVO\source\repos\Competencia\DAL\obj\Debug\DAL.csproj.CopyComplete
-C:\Users\LENOVO\source\repos\Competencia\DAL\obj\Debug\DAL.dll
-C:\Users\LENOVO\source\repos\Competencia\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\source\repos\Interfaz\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\source\repos\Interfaz\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\source\repos\Interfaz\DAL\bin\Debug\Entity.dll
+C:\Users\LENOVO\source\repos\Interfaz\DAL\bin\Debug\Entity.pdb
+C:\Users\LENOVO\source\repos\Interfaz\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Interfaz\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Interfaz\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\source\repos\Interfaz\DAL\obj\Debug\DAL.pdb
